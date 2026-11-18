@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Recall — Study with intention",
+  "short_name": "Recall",
+  "description": "A calm, local-first study system for active recall and spaced repetition.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f8f6",
+  "theme_color": "#f7f8f6",
+  "icons": [
+    { "src": "/recall-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

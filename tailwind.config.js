@@ -1,0 +1,1 @@
+export default { content: ["./index.html", "./src/**/*.{js,jsx}"], darkMode: "class", theme: { extend: { colors: { ink: "#18211f", paper: "#f7f8f6", accent: "#52796f", mint: "#e5eee9" }, boxShadow: { soft: "0 8px 30px rgba(24,33,31,.06)" } } }, plugins: [] };
